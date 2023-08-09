@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
 <h3 align="center">Continuously learning, sharing, and pushing the limits of my abilities.</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a **MERN Stack** Developer
 
 - 📫 How to reach me **praveenpatel@duck.com**
 
